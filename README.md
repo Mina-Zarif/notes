@@ -1,6 +1,6 @@
 # notes
 
-A new Flutter project.
+Note App by sqlite
 
 ## Getting Started
 
